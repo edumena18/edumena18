@@ -60,6 +60,7 @@ __Jira__
   * Able to assigned tests cases and bug reports to the team members
 
 __Browser developer tools__
+
   *How to put Chrome in inspect mode
   *How to find selectors using Xpath and CSS
 
@@ -72,7 +73,8 @@ __WebdriverIo__
 ## Courses
 
 
-__Softwate Quality Assurance
+__Softwate Quality Assurance__
+
 *Programs by MTECH-College 
 The Software Quality Assurance program covers all aspects of software quality assurance, from manual testing to automated testing, performance testing, API testing, and database management. The program is designed to provide students with a deep understanding of software quality assurance principles, techniques, and tools, and to equip them with the skills required to ensure the delivery of high-quality software products.
 [QA Assurance Program](https://mtec.edu/programs/software-quality-assurance)

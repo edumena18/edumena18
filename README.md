@@ -27,13 +27,13 @@ __Manual testing__
   * Able to creat clear bug reports to give a better understanding of the issues to the developers.
   * Able to initiate manual testing based on experience gained as a junior, but eager to learn from experts.
 
-__Ability to work as part of a team
+__Ability to work as part of a team__
   *Ability to work as a part of that team. I understand the work that others in my team do and how it impacts my own. This understanding    helps me to keep motivated to achieve the business' goal. Also help my teammates when they are under stress—or delegate tasks to them    when I have a high workload—to retain quality standards.
 
-__Stay focused
+__Stay focused__
   *Keeping my mind focused on my work, I can do more under quality standards.
 
-__Take control of my work
+__Take control of my work__
   *Taking control of my work help me feel more responsible and confident in doing it more efficiently.
 
 __SQL databases__
@@ -50,8 +50,8 @@ __Git fundamentals__
 ## Tools
 
 __Visual Studio Code__
-  * know how to create clases, functions, arrays, loops, conditionals.
-  * able to create automation sripts.
+  * Know how to create clases, functions, arrays, loops, conditionals.
+  * Able to create automation sripts.
   * Able to run automation scripts and debug issues
 
 __Jira__
@@ -60,7 +60,6 @@ __Jira__
   * Able to assigned tests cases and bug reports to the team members
 
 __Browser developer tools__
-
   *How to put Chrome in inspect mode
   *How to find selectors using Xpath and CSS
 

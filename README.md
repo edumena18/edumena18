@@ -99,8 +99,8 @@ An intensive introductory course (20 h) to software testing. Quality Lab is one 
 
 ### Test cases and work in TestRail
 
-- [The training webshop](http://automationpractice.com/) was used to create demo test cases
-  * Test case for checking the checkout process (in English). Check [the Google Sheets document here](https://docs.google.com/spreadsheets/d/1NpgiyQr2mx2YKddbXOFi7YygWE_jUve3spzscLkpTuY/edit?usp=sharing)
+- [Native American Tourist App] was used to create tourist travel reservations
+  * Test case for New booking/Selecting Time Slot for a specific tour. Check [Jira test case here](https://mtechqa.atlassian.net/browse/MTQA-412)
   * Test case for checking the addition of items to the cart (in English). Check [the Google Sheets document here](https://docs.google.com/spreadsheets/d/1PTc-aPCKWBm4B3aaTPsvJ5wgW0P-KkpvaclZAbQzTZY/edit#gid=0)
 
 - [The training webpage Enotes](https://enotes.pointschool.ruin) was used for working with TestRail.

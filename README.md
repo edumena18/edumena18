@@ -23,20 +23,27 @@ You can download my CV as [a PDF from my Google Drive](https://drive.google.com/
 You can find examples of the described skills in the [Examples of my work](#examples-of-my-work) section.
 
 __Manual testing__
+
   * Able to create test cases focoused on details that make the difference at end.
   * Able to creat clear bug reports to give a better understanding of the issues to the developers.
   * Able to initiate manual testing based on experience gained as a junior, but eager to learn from experts.
 
 __Ability to work as part of a team__
-  *Ability to work as a part of that team. I understand the work that others in my team do and how it impacts my own. This understanding    helps me to keep motivated to achieve the business' goal. Also help my teammates when they are under stress—or delegate tasks to them    when I have a high workload—to retain quality standards.
+  
+  *I understand the work that others in my team do and how it impacts my own. 
+  *This understanding help me to keep motivated to achieve the business' goal. 
+  *Also help my teammates when they are under stress—or delegate tasks to them when I have a high workload—to retain quality standards.
 
 __Stay focused__
+
   *Keeping my mind focused on my work, I can do more under quality standards.
 
 __Take control of my work__
+
   *Taking control of my work help me feel more responsible and confident in doing it more efficiently.
 
 __SQL databases__
+
   * FAmiliar with the SQL fundamentals
   * Able to interact with tables using comands: SELECT, WHERE, LIKE, AND, OR, ORDER BY, etc.
   
@@ -50,20 +57,24 @@ __Git fundamentals__
 ## Tools
 
 __Visual Studio Code__
+
   * Know how to create clases, functions, arrays, loops, conditionals.
   * Able to create automation sripts.
   * Able to run automation scripts and debug issues
 
 __Jira__
+
   * Able to create test cases
   * Able to create bug reports
   * Able to assigned tests cases and bug reports to the team members
 
 __Browser developer tools__
+
   *How to put Chrome in inspect mode
   *How to find selectors using Xpath and CSS
 
 __WebdriverIo__
+
   * Able to install Webdriver version
   * Check version installed in devices
   * Eject webdriverIo commands

@@ -101,12 +101,17 @@ An intensive introductory course (20 h) to software testing. Quality Lab is one 
 
 - [Native American Tourist App] was used to create tourist travel reservations
   * Test case for New booking/Selecting Time Slot for a specific tour. Check [Jira test case here](https://mtechqa.atlassian.net/browse/MTQA-412)
-  * Test case for checking the addition of items to the cart (in English). Check [the Google Sheets document here](https://docs.google.com/spreadsheets/d/1PTc-aPCKWBm4B3aaTPsvJ5wgW0P-KkpvaclZAbQzTZY/edit#gid=0)
+ 
+- [MTEC] was use to create real test cases scenarios.
+  * Test case for Security testing that will be executed over the component “Student Login“. Check [Jira test case here](https://mtechqa.atlassian.net/browse/MTQA-354)
+  * Test case for Accessibility Test to verify voice over pronounce correctly the component Programs site. Check [Jira test case here](https://mtechqa.atlassian.net/browse/MTQA-353)
+  * Test case for Acceptance Testing. During the Acceptance Testing there will be verify of all the criteria and functionality of the component “Student Portal”. Check [Jira test case here](https://mtechqa.atlassian.net/browse/MTQA-352)
 
 - [Saucedemo](https://www.saucedemo.com/) was used to create demo test cases.
   * Test case Login Page (Positive test). Check [Jira test case here](https://mtechqa.atlassian.net/browse/MTQA-442).
-  * Test case (in Russian) for adding an item to the cart. See [the screenshot from TestRail here](https://drive.google.com/file/d/1L74DBG62BRnl45WuVYsuR3RoYU4KZHrI/view?usp=sharing).
-  * Test suits and a test run for the cart. See [the screenshots from TestRail here](https://drive.google.com/file/d/1imQyEHdDE9FCWtnnPZurh0J9QMTWrS3l/view?usp=sharing).
+  * Test case Login Page (Negative test). Check [Jira test case here](https://mtechqa.atlassian.net/browse/MTQA-443)
+  * Test case Login Page (Adding an item to the cart). Check [Jira test case here](https://mtechqa.atlassian.net/browse/MTQA-444)
+  * Test case Login Page (Checkout). Check [Jira test case here](https://mtechqa.atlassian.net/browse/MTQA-445)
 
 
 ### Bug reports and work in Jira

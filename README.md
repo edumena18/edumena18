@@ -30,17 +30,17 @@ __Manual testing__
 
 __Ability to work as part of a team__
   
-  *I understand the work that others in my team do and how it impacts my own. 
-  *This understanding help me to keep motivated to achieve the business' goal. 
-  *Also help my teammates when they are under stress—or delegate tasks to them when I have a high workload—to retain quality standards.
+  * I understand the work that others in my team do and how it impacts my own. 
+  * This understanding help me to keep motivated to achieve the business' goal. 
+  * Also help my teammates when they are under stress—or delegate tasks to them when I have a high workload—to retain quality standards.
 
 __Stay focused__
 
-  *Keeping my mind focused on my work, I can do more under quality standards.
+  * Keeping my mind focused on my work, I can do more under quality standards.
 
 __Take control of my work__
 
-  *Taking control of my work help me feel more responsible and confident in doing it more efficiently.
+  * Taking control of my work help me feel more responsible and confident in doing it more efficiently.
 
 __SQL databases__
 
@@ -70,8 +70,8 @@ __Jira__
 
 __Browser developer tools__
 
-  *How to put Chrome in inspect mode
-  *How to find selectors using Xpath and CSS
+  * How to put Chrome in inspect mode
+  * How to find selectors using Xpath and CSS
 
 __WebdriverIo__
 
@@ -85,7 +85,7 @@ __WebdriverIo__
 
 __Softwate Quality Assurance__
 
-*Programs by MTECH-College 
+* Programs by MTECH-College 
 The Software Quality Assurance program covers all aspects of software quality assurance, from manual testing to automated testing, performance testing, API testing, and database management. The program is designed to provide students with a deep understanding of software quality assurance principles, techniques, and tools, and to equip them with the skills required to ensure the delivery of high-quality software products.
 [QA Assurance Program](https://mtec.edu/programs/software-quality-assurance)
 

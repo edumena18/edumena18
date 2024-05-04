@@ -107,7 +107,7 @@ An intensive introductory course (20 h) to software testing. Quality Lab is one 
   * Test case for Accessibility Test to verify voice over pronounce correctly the component Programs site. Check [Jira test case here](https://mtechqa.atlassian.net/browse/MTQA-353)
   * Test case for Acceptance Testing. During the Acceptance Testing there will be verify of all the criteria and functionality of the component “Student Portal”. Check [Jira test case here](https://mtechqa.atlassian.net/browse/MTQA-352)
 
-- [Saucedemo](https://www.saucedemo.com/) was used to create demo test cases.
+- [Saucedemo] [.](https://www.saucedemo.com/) was used to create demo test cases.
   * Test case Login Page (Positive test). Check [Jira test case here](https://mtechqa.atlassian.net/browse/MTQA-442).
   * Test case Login Page (Negative test). Check [Jira test case here](https://mtechqa.atlassian.net/browse/MTQA-443)
   * Test case Login Page (Adding an item to the cart). Check [Jira test case here](https://mtechqa.atlassian.net/browse/MTQA-444)

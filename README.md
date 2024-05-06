@@ -20,7 +20,15 @@ You can download my CV as [a PDF from my Google Drive](https://drive.google.com/
 
 You can find examples of the described skills in the [Examples of my work](#examples-of-my-work) section.
 
-__Manual testing__
+__Test Automation__
+
+  * Able to use software tools and scripts to automate the execution of tests in software development and quality assurance processes
+  * Able to create test cases focoused on details that make the difference at end.
+  * Able to create clear bug reports to give a better understanding of the issues to the developers.
+  * Able to create scripts or test cases that can be run automatically, rather than requiring manual effort.
+ 
+
+__Manual Testing__
 
   * Able to create test cases focoused on details that make the difference at end.
   * Able to creat clear bug reports to give a better understanding of the issues to the developers.

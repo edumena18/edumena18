@@ -79,7 +79,7 @@ __Browser developer tools__
   * How to put Chrome in inspect mode
   * How to find selectors using Xpath and CSS
 
-__WebdriverIo__
+__WebdriverIO__
 
   * Able to install Webdriver version
   * Check version installed in devices

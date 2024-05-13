@@ -5,7 +5,7 @@
 - [Tools](#tools)
 - [Courses](#courses)
 - [Examples of my work](#examples-of-my-work)
-  * [Test cases and work in TestRail](#test-cases-and-work-in-testrail)
+  * [Test cases and work in Jira](#test-cases-and-work-in-Jira)
   * [Bug reports and work in Jira](#bug-reports-and-work-in-jira)
  
 

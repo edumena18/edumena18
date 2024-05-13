@@ -105,7 +105,7 @@ The Software Quality Assurance program covers all aspects of software quality as
     
 
 - [Native American Tourist App] was used to create tourist travel reservations
-  * Test case for New booking/Selecting Time Slot for a specific tour. Check [Jira test case here](https://mtechqa.atlassian.net/browse/MTQA-412)
+  * Test case for New booking/Selecting Time Slot for a specific tour. Check [Jira test case here](https://docs.google.com/document/d/1-hsBJnedFhdyEKaBoGBlU0TD6SDYuLs2K6IID73PcEU/edit?usp=sharing)
  
 - [MTEC] was use to create real test cases scenarios.
   * Test case for Security testing that will be executed over the component “Student Login“. Check [Jira test case here](https://mtechqa.atlassian.net/browse/MTQA-354)

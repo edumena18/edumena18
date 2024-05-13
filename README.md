@@ -109,7 +109,7 @@ The Software Quality Assurance program covers all aspects of software quality as
  
 - [MTEC] was use to create real test cases scenarios.
   * Test case for Security testing that will be executed over the component “Student Login“. Check [Jira test case here](https://docs.google.com/document/d/1G3XbHvWcRXq9UMzX8x0ZLQh-z9Adqb-26tZ46Z8TaDI/edit?usp=sharing)
-  * Test case for Accessibility Test to verify voice over pronounce correctly the component Programs site. Check [Jira test case here](https://mtechqa.atlassian.net/browse/MTQA-353)
+  * Test case for Accessibility Test to verify voice over pronounce correctly the component Programs site. Check [Jira test case here](https://mtechqa.atlassian.net/browse/MTQA-353)(https://docs.google.com/document/d/1Bd4vvC2-UMvPXLd6qO1ntHkBPiS6K2UOl5DdXl0ZZzw/edit?usp=sharing)
   * Test case for Acceptance Testing. During the Acceptance Testing there will be verify of all the criteria and functionality of the component “Student Portal”. Check [Jira test case here](https://mtechqa.atlassian.net/browse/MTQA-352)
 
 - [Saucedemo](https://www.saucedemo.com/) was used to create demo test cases.

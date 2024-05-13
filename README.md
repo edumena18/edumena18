@@ -98,7 +98,7 @@ The Software Quality Assurance program covers all aspects of software quality as
 
 ## Examples of my work
 
-### Test cases and work in TestRail
+### Test cases and work in Jira
 
 - [Dell-website] was use to create test cases for acdemy porpuses. 
   * Test case to Verify if is accessible each picture of Laptop Model-5440 in the list button since the beginning to the end.Check [Jira test case here](https://mtechqa.atlassian.net/browse/MTQA-457)

@@ -102,6 +102,7 @@ The Software Quality Assurance program covers all aspects of software quality as
 
 - [Dell-website] was use to create test cases for acdemy porpuses. 
   * Test case to Verify if is accessible each picture of Laptop Model-5440 in the list button since the beginning to the end.Check [Jira test case here](https://mtechqa.atlassian.net/browse/MTQA-457)
+  * https://docs.google.com/document/d/1JaR3pht7-B9kbdQDWnYnuJCKUVvsutjGub3AUXOCFbw/edit?usp=sharing
 
 - [Native American Tourist App] was used to create tourist travel reservations
   * Test case for New booking/Selecting Time Slot for a specific tour. Check [Jira test case here](https://mtechqa.atlassian.net/browse/MTQA-412)

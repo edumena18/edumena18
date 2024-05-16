@@ -16,9 +16,6 @@ I have 7+ years of professional experience, managing complex IT systems.  In my 
 ## CV
 You can download my CV as [a PDF from my Google Drive](https://drive.google.com/file/d/1VjuN3-C-Cn5VmCWPwhOQVr4TTwR5IO3d/view?usp=drive_link).
 
-
-
-https://drive.google.com/file/d/1akAxbrihQDBCyXYXvboP47TloNphJzPU/view?usp=drive_link
 ## Skills
 
 You can find examples of the described skills in the [Examples of my work](#examples-of-my-work) section.
